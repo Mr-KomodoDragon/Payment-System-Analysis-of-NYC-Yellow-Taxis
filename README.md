@@ -38,5 +38,6 @@ Berikut Recommendation Action yang saya berikan kepada VeriFone Inc. & Creative 
 - Memastikan memberi layanan pembayaran credit card untuk taxi yang dimana sang supir mempunyai kriteria baik dan review bagus, karena jika saya lihat ada rekaman perjalanan Dispute. Dimana sang penumpang dan supir mengalami perselisihan yang menyebabkan penumpang tidak mau membayar atau membayar yang tidak sesuai tarif.
 
 
-Check out my [Tableau visualization of NYC taxi records (https://public.tableau.com/app/profile/joel.bernard.leonardo/viz/NYC_Taxi_Record_Capstone_Modul_2/TotalProfit?publish=yes) here.
+Check out my [Tableau visualization of NYC taxi records](https://public.tableau.com/app/profile/joel.bernard.leonardo/viz/NYC_Taxi_Record_Capstone_Modul_2/TotalProfit?publish=yes) here.
+
 
