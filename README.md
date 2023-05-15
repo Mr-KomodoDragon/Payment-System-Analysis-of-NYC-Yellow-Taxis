@@ -36,3 +36,7 @@ Berikut Recommendation Action yang saya berikan kepada VeriFone Inc. & Creative 
 - Mengembangkan option pembayaran lain yaitu Applikasi E-Payment sehingga Orang tidak perlu mengeluarkan kartu kredit mereka, cukup isi saldo E-Payment dan kemudian jika perjalanan selesai langsung auto debit.
 - Memberikan option Pembayaran Debit Card juga, bukan hanya Credit Card saja. Maka orang yang tidak mempunyai Credit card masih bisa juga membayar taxi menggunakan Mesin EDC yang dimiliki oleh VeriFone Inc. & Creative Mobile Technologies, LLC
 - Memastikan memberi layanan pembayaran credit card untuk taxi yang dimana sang supir mempunyai kriteria baik dan review bagus, karena jika saya lihat ada rekaman perjalanan Dispute. Dimana sang penumpang dan supir mengalami perselisihan yang menyebabkan penumpang tidak mau membayar atau membayar yang tidak sesuai tarif.
+
+
+Check out my [Tableau visualization of NYC taxi records (https://public.tableau.com/app/profile/joel.bernard.leonardo/viz/NYC_Taxi_Record_Capstone_Modul_2/TotalProfit?publish=yes) here.
+
