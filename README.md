@@ -28,7 +28,7 @@ Jadi yang akan saya lakukan adalah menganalisis data rekaman tersebut untuk mene
 
 # Conclusion & Recomendation
 
-Dari analisa saya, saya bisa simpulkan bahwa penghasilan yang didapatkan oleh VeriFone Inc. & Creative Mobile Technologies, LLC. **tergantung oleh perusahaan taxi**. Mengapa begitu? Dikarenakan tarif perjalanan atau biaya tambahan itu ditentukan oleh Perusahaan Taxi dan sang Supir itu sendiri. **Akan tetapi, saya menemukan solution** untuk menjawab problem yang dimiliki dari kedua vendor tersebut, bagaimana meningkatkan para penumpang membayar fee taxi mereka dengan sistem yang vendor sediakan yaitu, layanan **CREDIT CARD** Payment.
+Dari analisa saya, saya bisa simpulkan bahwa penghasilan yang didapatkan oleh VeriFone Inc. & Creative Mobile Technologies, LLC. **tergantung oleh perusahaan taxi**. Mengapa begitu? Dikarenakan tarif perjalanan atau biaya tambahan itu ditentukan oleh Perusahaan Taxi dan sang Supir itu sendiri. **Akan tetapi, saya menemukan solution** untuk menjawab problem yang dimiliki dari kedua vendor tersebut, bagaimana meningkatkan para penumpang membayar fee taxi mereka dengan System Payment yang mereka sediakan dengan Mesin EDC yang berfokus pada Credit Card Payment.
 
 Berikut Recommendation Action yang saya berikan kepada VeriFone Inc. & Creative Mobile Technologies, LLC.
 - Memberikan discount untuk perjalanan yang populer yaitu Standard rate atau dalam kota New York sebesar 5-10% segala jenis Credit Card yang ada di Amerika seperti MasterCard, Visa, American Express, Citi dan Discover.
