@@ -1,5 +1,8 @@
 # Payment System Analysis of NYC Yellow Taxis
 
+
+## Business Problem Understanding
+
 **Context:**<br>
 
 Ada 2 perusahaan Penyedia Layanan Sistem Pembayaran untuk Yellow Cabs yaitu Creative Mobile Technologies, LLC dan VeriFone Inc.
