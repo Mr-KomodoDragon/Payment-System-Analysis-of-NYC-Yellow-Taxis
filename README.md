@@ -1,6 +1,6 @@
-#Payment System Analysis of NYC Yellow Taxis
+# Payment System Analysis of NYC Yellow Taxis
 
-##Business Problem Understanding
+## Business Problem Understanding
 
 **Context**:<br>
 
@@ -18,7 +18,7 @@ Based on the problem mentioned, the companies want to identify the factors that 
 
 My approach will involve analyzing the trip record data to discover the factors that can influence revenue growth for the two Payment System Service Providers based on their available records.
 
-**Conclusion & Recommendation**
+## **Conclusion & Recommendation**
 From my analysis, I can conclude that the revenue earned by VeriFone Inc. & Creative Mobile Technologies, LLC is dependent on the taxi companies. This is because the fare or additional charges are determined by the Taxi Company and the driver themselves. However, I have found a solution to address the problem faced by both vendors in terms of increasing passengers' willingness to pay their taxi fees using the provided Credit Card Payment System.
 
 Here are the recommended actions for VeriFone Inc. & Creative Mobile Technologies, LLC:
