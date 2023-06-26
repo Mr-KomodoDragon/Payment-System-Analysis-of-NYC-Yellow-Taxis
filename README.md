@@ -1,44 +1,33 @@
-# Payment System Analysis of NYC Yellow Taxis
+#Payment System Analysis of NYC Yellow Taxis
 
+##Business Problem Understanding
 
-## Business Problem Understanding
+**Context**:<br>
 
-**Context:**<br>
+There are two Payment System Service Providers for Yellow Cabs in New York City (NYC), namely Creative Mobile Technologies, LLC and VeriFone Inc. (as a third party for Yellow Cabs). They want to increase their revenue by optimizing their business operations. These companies have access to trip record data conducted by taxi drivers, recorded by the NYC Taxi and Limousine Commission (TLC). The data includes information about pickup locations, trip duration, fares, payment methods, and more during the month of January 2023. The companies want to use this data to identify **factors** that can influence the payment system they provide.
 
-Ada 2 perusahaan Penyedia Layanan Sistem Pembayaran untuk Yellow Cabs yaitu Creative Mobile Technologies, LLC dan VeriFone Inc.
-(Sebagai pihak ketiga untuk Yellow cabs) di New York City (NYC) ingin meningkatkan penghasilannya dengan mengoptimalkan operasional bisnis mereka. Perusahaan ini memiliki akses ke data rekaman perjalanan (trip records) yang dilakukan oleh para pengemudi taksi yang tercatat oleh NYC Taxi and Limousine Commission (TLC). Data tersebut mencakup informasi tentang lokasi penjemputan, waktu perjalanan, tarif, metode pembayaran, dan lain-lain selama bulan January 2023. Perusahaan ingin menggunakan data tersebut untuk mengidentifikasi **Adakah** faktor-faktor yang dapat mempengaruhi sistem pembayaran yang telah mereka sediakan. <br>
+**Note: My role is as a freelancer.**<br>
 
-    Note: Posisi saya sebagai Freelancer.
-<br>
+Both Payment System Service Providers want to increase their revenue through their payment systems. They want to understand the factors that can encourage customers to pay for taxis using their provided payment system, specifically focusing on credit card payments. They aim to utilize the trip record data conducted by taxi drivers.
 
-**Problem Statement:** <br>
+**Goal**: <br>
 
-Kedua Perusahaan Penyedia Layanan Sistem Pembayaran tersebut ingin meningkatkan penghasilannya memlalui sistem pembayaran mereka. Dengan cara, memahami faktor-faktor apa yang dapat meningkat para konsumen membayar taxi lewat sistem penyedia mereka yaitu Mesin EDC mereka yang berfokus pada pembayaran menggunakan metode Credit Card. Mereka ingin memanfaatkan data rekaman perjalanan (trip records) yang dilakukan oleh para pengemudi taksi. <br>
+Based on the problem mentioned, the companies want to identify the factors that can contribute to increasing their revenue, specifically focusing on credit card payments for taxis.
 
-<br>
+**Analytic Approach**: <br>
 
-**Goal:** <br>
+My approach will involve analyzing the trip record data to discover the factors that can influence revenue growth for the two Payment System Service Providers based on their available records.
 
-Maka berdasarkan permasalahan tersebut, perusahaan ingin mencari tahu faktor-faktor apa saja yang dapat menjadi hal rekomendasi untuk meningkatkan penghasilannya yaitu bagaimana orang mau membayar taxi mereka menggunakan metode credit card.
+**Conclusion & Recommendation**
+From my analysis, I can conclude that the revenue earned by VeriFone Inc. & Creative Mobile Technologies, LLC is dependent on the taxi companies. This is because the fare or additional charges are determined by the Taxi Company and the driver themselves. However, I have found a solution to address the problem faced by both vendors in terms of increasing passengers' willingness to pay their taxi fees using the provided Credit Card Payment System.
 
-<br>
+Here are the recommended actions for VeriFone Inc. & Creative Mobile Technologies, LLC:
 
-**Analytic Approach :** <br >
-
-Jadi yang akan saya lakukan adalah menganalisis data rekaman tersebut untuk menemukan faktor apa yang dapat mempengaruhi peningkatan penghasilan dari kedua perusahaan Penyedia Sistem Pembanyaran tersebut dari data rekaman yang mereka punya.<br>
-
-
-
-# Conclusion & Recomendation
-
-Dari analisa saya, saya bisa simpulkan bahwa penghasilan yang didapatkan oleh VeriFone Inc. & Creative Mobile Technologies, LLC. **tergantung oleh perusahaan taxi**. Mengapa begitu? Dikarenakan tarif perjalanan atau biaya tambahan itu ditentukan oleh Perusahaan Taxi dan sang Supir itu sendiri. **Akan tetapi, saya menemukan solution** untuk menjawab problem yang dimiliki dari kedua vendor tersebut, bagaimana meningkatkan para penumpang membayar fee taxi mereka dengan System Payment yang mereka sediakan dengan Mesin EDC yang berfokus pada Credit Card Payment.
-
-Berikut Recommendation Action yang saya berikan kepada VeriFone Inc. & Creative Mobile Technologies, LLC.
-- Memberikan discount untuk perjalanan yang populer yaitu Standard rate atau dalam kota New York sebesar 5-10% segala jenis Credit Card yang ada di Amerika seperti MasterCard, Visa, American Express, Citi dan Discover.
-- Memberikan Reward Cashback atau exchange coupon dengan Poin Reward untuk pembayaran Credit Card.
-- Mengembangkan option pembayaran lain yaitu Applikasi E-Payment sehingga Orang tidak perlu mengeluarkan kartu kredit mereka, cukup isi saldo E-Payment dan kemudian jika perjalanan selesai langsung auto debit.
-- Memberikan option Pembayaran Debit Card juga, bukan hanya Credit Card saja. Maka orang yang tidak mempunyai Credit card masih bisa juga membayar taxi menggunakan Mesin EDC yang dimiliki oleh VeriFone Inc. & Creative Mobile Technologies, LLC
-- Memastikan memberi layanan pembayaran credit card untuk taxi yang dimana sang supir mempunyai kriteria baik dan review bagus, karena jika saya lihat ada rekaman perjalanan Dispute. Dimana sang penumpang dan supir mengalami perselisihan yang menyebabkan penumpang tidak mau membayar atau membayar yang tidak sesuai tarif.
+- Provide discounts for popular trips, such as the Standard rate or within New York City, ranging from 5-10% for all types of Credit Cards in the United States, such as MasterCard, Visa, American Express, Citi, and Discover.
+- Offer cashback rewards or exchange coupons with reward points for Credit Card payments.
+- Develop other payment options such as E-Payment applications, so that people do not need to present their credit cards. They can simply top up their E-Payment balance and have it automatically debited upon trip completion.
+- Provide Debit Card payment options as well, not just limited to Credit Cards. This allows people without credit cards to still pay for taxis using the EDC machines provided by VeriFone Inc. & Creative Mobile Technologies, LLC.
+- Ensure that the credit card payment service is available for taxis driven by drivers with good criteria and reviews, as I observed some trip records with disputes. These disputes arise when passengers refuse to pay or pay an incorrect fare due to disagreements with the driver.
 
 
 Check out my [Tableau visualization of NYC taxi records](https://public.tableau.com/app/profile/joel.bernard.leonardo/viz/NYC_Taxi_Record_Capstone_Modul_2/TotalProfit?publish=yes) here. Dataset Source for Tableau: NYC TLC Trip Record Clean Mod V1
